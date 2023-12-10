@@ -23,10 +23,10 @@ function functionPlus() {
 
 function functionResult() {
     const aa = document.getElementById("firstLine1").textContent
-    document.getElementById("screen").textContent = eval(aa)
+    document.getElementById("screen").textContent = unsafe-eval(aa)
     // setTimeout(() => { clearScreen() }, 3000);
-    setTimeout(() => {clearScreen1()}, 3000);
-    setTimeout(() => {clearScreen2()}, 5000);
+    setTimeout(() => {clearScreen1()}, 5000);
+    setTimeout(() => {clearScreen2()}, 7000);
 }
 function clearScreen1() {
     document.getElementById("firstLine1").innerHTML = ""

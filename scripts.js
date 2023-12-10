@@ -25,8 +25,8 @@ function functionResult() {
     const aa = document.getElementById("firstLine1").textContent
     document.getElementById("screen").textContent = eval(aa)
     // setTimeout(() => { clearScreen() }, 3000);
-    setTimeout(() => {clearScreen1()}, 2000);
-    setTimeout(() => {clearScreen2()}, 3000);
+    setTimeout(() => {clearScreen1()}, 3000);
+    setTimeout(() => {clearScreen2()}, 5000);
 }
 function clearScreen1() {
     document.getElementById("firstLine1").innerHTML = ""

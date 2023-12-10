@@ -40,7 +40,7 @@ h2 {
 }
 
 .main-part {
-    height: 83%;
+    height: auto;
     max-height: 655px;
     border: 30px solid yellow;
     border-radius: 1rem;

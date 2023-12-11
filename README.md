@@ -1,6 +1,6 @@
 ![CALCULATOR](./Calculator.png)
 [Calculator Online](https://mcc1461.github.io/Calculator/)
-#heading1 Calculator 
+ 
 
 # Simple Calculator
 1. HTML

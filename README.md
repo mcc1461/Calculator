@@ -1,11 +1,14 @@
 ![CALCULATOR](./Calculator.png)
-[Calculator Online](https://github.com/mcc1461/Calculator)
+[Calculator Online](https://mcc1461.github.io/Calculator/)
 #heading1 Calculator 
-1. FLEX GRID
-2. HTML - CSS - JS
-3. HESAP MAKİNESİ
+
+# Simple Calculator
+1. HTML
+2. CSS
+3. JS
 
 
+* Grid
 * linear-gradient
 * icons from Font Awesome
 * value
